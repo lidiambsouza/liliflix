@@ -11,6 +11,7 @@ export const Title = styled.h3`
   background: red;
   line-height: 1;
   border-radius: 4px;
+  font-family: 'Ranchers', cursive;
 
   @media (max-width: 800px) {
     font-size: 18px;
@@ -22,6 +23,8 @@ export const ExtraLink = styled.a`
   margin-left: 16px;
   text-decoration: none;
   transition: opacity .3s;
+  color:  #d01825;
+  font-family: 'Indie Flower', cursive;
   &:hover,
   &:focus {
     opacity: .5;

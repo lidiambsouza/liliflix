@@ -1,185 +1,180 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Música Paraense",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#ec851bd1",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Você sabe o que é carimbó?",
+        "url": "https://www.youtube.com/watch?v=MyT9qiDhJm8"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Dona Onete - No Meio do Pitiú",
+          "url": "https://www.youtube.com/watch?v=CkFpmCP-R04"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Nilson Chaves - Sabor Açaí",
+          "url": "https://www.youtube.com/watch?v=UgO5bXXsE70"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Olho de Boto - Nilson Chaves & Vital Lima",
+          "url": "https://www.youtube.com/watch?v=syKgWZrezbw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Lia Sophia - Ai menina",
+          "url": "https://www.youtube.com/watch?v=cQg8tk4D5A8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Dona Onete - Festa do Tubarão",
+          "url": "https://www.youtube.com/watch?v=DDmNffJJS2Y"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lia Sophia - Amor de Promoção",
+          "url": "https://www.youtube.com/watch?v=v8kE6GD0WWE"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Gonzaga Blantez - CURIÓ DO BICO DOCE",
+          "url": "https://www.youtube.com/watch?v=3fTz_pMm0D4"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Emília Monteiro feat. Dona Onete - Veneno de Cobra",
+          "url": "https://www.youtube.com/watch?v=Y1cyulTPyhs"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Bregaço",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Gang do Eletro - Velocidade do Eletro",
+        "url": "https://www.youtube.com/watch?v=AGTZ5CBBLso"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Vingadores do Brega - Miss Vitamina",
+          "url": "https://www.youtube.com/watch?v=gf-9LQbbEE8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Só Bregaço | Marcantes Românticas - Vol 01",
+          "url": "https://www.youtube.com/watch?v=UtFI64Hnj9A&t=931s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Só Bregaço | BREGÃO DO VER-O-PESO",
+          "url": "https://www.youtube.com/watch?v=QaW7ZVq731U"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
+          "titulo": "Clips do Bregaço 01 - Curtindo a Tradição / Ivan Junior",
+          "url": "https://www.youtube.com/watch?v=yW2eC1IRSTw"
+        }, 
+        {
+          "titulo": "Clips do Bregaço 02 - No Rádio / Adilson Ribeiro",
+          "url": "https://www.youtube.com/watch?v=awrlR978Z2I"
+        },
+        {
+          "titulo": "Joelma - Se Vira Aí feat. Zé Felipe",
+          "url": "https://www.youtube.com/watch?v=5l334hDCQTE"
+        }  
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Sampleados",
+      "cor": "#845d08",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Sampleados: Especial de Ver-o-Peso",
+        "url": "https://www.youtube.com/watch?v=W-n6fb7LNaM"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Sampleados - 1 Episódio",
+          "url": "https://www.youtube.com/watch?v=WfFgjRGoLXw"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Sampleados - 2 Episódio",
+          "url": "https://www.youtube.com/watch?v=BSUutHbFb54"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Sampleados - 3 Episódio",
+          "url": "https://www.youtube.com/watch?v=aXmmIX6cVSg"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Sampleados - 4 Episódio",
+          "url": "https://www.youtube.com/watch?v=1SAQhL45fFA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Sampleados - 5 Episódio",
+          "url": "https://www.youtube.com/watch?v=i-a58JJPhBk"
+        },
+        {
+          "titulo": "Sampleados - Episódio 06",
+          "url": "https://www.youtube.com/watch?v=bt8RwqMguhI"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Comédia",
+      "cor": "#afaf06",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "NATAL NO PARÁ É ASSIM",
+        "url": "https://www.youtube.com/watch?v=PBy3mhIjYz4"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Encantada Do Brega",
+          "url": "https://www.youtube.com/watch?v=jkASByzPWcw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "POR QUÊ OS PARAENSES ESTÃO INDO EMBORA?",
+          "url": "https://www.youtube.com/watch?v=TzeHLH4BP9A"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "O NÁUFRAGO PARAENSE",
+          "url": "https://www.youtube.com/watch?v=rOSMJpyJD-c"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "ADÃO E EVA PARAENSE",
+          "url": "https://www.youtube.com/watch?v=OVla8NiRKzo"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "MANIAS DE AVÓ PARAENSE",
+          "url": "https://www.youtube.com/watch?v=mVHL9Y6v9No"
+        },
+        {
+          "titulo": "ESTUDOS PARAENSES",
+          "url": "https://www.youtube.com/watch?v=uxxEOsrU6Fs"
+        }
+      ]
+    },
+    {
+      "titulo": "Lives",
+      "cor": "blue",
+      "link_extra": {
+        "text": "LIVE VINGADORES DO BREGA",
+        "url": "https://www.youtube.com/watch?v=rLq3pL5JgQU&t=7s"
+      },
+      "videos": [
+        {
+          "titulo": "Live Móvel DJ Marcio Lins",
+          "url": "https://www.youtube.com/watch?v=-BqY3zqXe-I"
+        },
+        {
+          "titulo": "Live do DJ Marcio Lins",
+          "url": "https://www.youtube.com/watch?v=TxYTtv-qmQA"
+        },
+        {
+          "titulo": "Joelma - #LiveJoelmaEmFamília",
+          "url": "https://www.youtube.com/watch?v=2dBgTVvliFY"
+        },
+        {
+          "titulo": "Joelma - Live Joelma em Casa",
+          "url": "https://www.youtube.com/watch?v=aLNP0_RsP70"
+        },
+        {
+          "titulo": "Live do DJ Marcio Lins",
+          "url": "https://www.youtube.com/watch?v=0HtUzyJnrys"
         }
       ]
     }
+    
   ]
 }

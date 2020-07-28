@@ -1,18 +1,19 @@
 import React from 'react';
-import { FooterBase } from './styles';
+import { FooterBase, FooterImagem, FooterLink} from './styles';
+import ParaLogo from '../../assets/img/Bandeira_do_Para.png';
 
 function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+        <FooterImagem src={ParaLogo} alt="Logo Para" />
       </a>
       <p>
         Orgulhosamente criado durante a
         {' '}
-        <a href="https://www.alura.com.br/">
+        <FooterLink href="https://www.alura.com.br/">
           Imersão React da Alura
-        </a>
+        </FooterLink>
       </p>
     </FooterBase>
   );
