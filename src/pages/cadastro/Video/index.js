@@ -7,6 +7,7 @@ function CadastroVideo(){
       <PageDefault>
         <h1>Cadastro de vídeo</h1>
         <Link to="/cadastro/categoria">
+          Ir para categoria
         </Link>
       </PageDefault>
     )
