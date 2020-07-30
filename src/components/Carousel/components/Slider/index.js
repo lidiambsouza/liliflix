@@ -3,9 +3,10 @@ import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
 
+
 const Container = styled.ul`
   padding: 0;
-  margin: 0;
+  margin: 0;  
   .slick-prev,
   .slick-next {
     z-index: 50;
@@ -15,13 +16,20 @@ const Container = styled.ul`
     width: 30px;
     height: 30px;
     transform: initial;
+    
+    
     &:before {
-      font-size: 30px;
+      font-size: 50px;
+      color: #d01825;
+      background: rgba(20,20,20,.7);
+      
     }
   }
   
   .slick-prev {
     left: 0;
+    
+    
   }
   .slick-next {
     right: 16px;
@@ -42,12 +50,13 @@ export const SliderItem = styled.li`
 const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
-      dots: false,
-      infinite: false,
+      dots: true,
+      infinite: true,
       speed: 300,
-      centerMode: false,
+      centerMode: true,      
       variableWidth: true,
-      adaptiveHeight: true,
+      adaptiveHeight: true,      
+
     }}
     >
       {children}
