@@ -1,8 +1,9 @@
-import styled  from "styled-components";
+import styled from 'styled-components';
 
-const Button = styled.button `
+const Button = styled.button`
     color: #d01825;
     border: 1px solid #d01825;
+    background: var(--background);
     box-sizing: border-box;
     cursor: pointer;
     padding: 16px 24px;
